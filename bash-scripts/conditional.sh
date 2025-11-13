@@ -1,7 +1,7 @@
 #! /bin/bash
 
 
-cd /home/doublea223/Documents
+cd /home/Documents
 
 # show file and ask for one 
 
